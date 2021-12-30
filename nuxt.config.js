@@ -40,7 +40,7 @@ export default {
   modules: [
     '@nuxtjs/axios',
     '@nuxtjs/style-resources',
-    'cookie-universal-nuxt'
+    'cookie-universal-nuxt',
   ],
 
   styleResources: {
